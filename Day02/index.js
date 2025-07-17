@@ -1,3 +1,7 @@
+
+//Read 🔶 Blockchain Mining - Detailed Hinglish Notes.pdf
+
+
 const crypto = require('crypto');
 
 function sha256(data) {
